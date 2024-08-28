@@ -112,14 +112,23 @@ Cada linguagem tem suas próprias forças e é adequada para diferentes tipos de
 ** A) CÓDIGOS MÍNIMOS DE CADA LINGUAGEM:
 
 * PYTHON: print("Olá, Mundo!")
-* JAVA: public class HelloWorld {
+* JAVA: import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
     public static void main(String[] args) {
-        System.out.println("Olá, Mundo!");
+        System.out.println("Hello world!");
     }
 }
 * JAVASCRIPT: console.log("Olá, Mundo!");
 
-** B) https://raw.githubusercontent.com/LFernandes98/Conte-dos-de-Programa-o-Aplicada-ao-Direito/main/Screenshot%202024-08-28%20112249.png
+** B)
+python: https://raw.githubusercontent.com/LFernandes98/Conte-dos-de-Programa-o-Aplicada-ao-Direito/main/Screenshot%202024-08-28%20112249.png
+Java: ![java](https://github.com/user-attachments/assets/d6d0316e-5f99-41dc-98c5-61da1924e483)
+JavaScript: ![java script](https://github.com/user-attachments/assets/c393e671-5939-4bdc-ae13-b001a6261305)
+
 
 
 
