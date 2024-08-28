@@ -119,7 +119,7 @@ Cada linguagem tem suas próprias forças e é adequada para diferentes tipos de
 }
 * JAVASCRIPT: console.log("Olá, Mundo!");
 
-** B) 
+** B) https://raw.githubusercontent.com/LFernandes98/Conte-dos-de-Programa-o-Aplicada-ao-Direito/main/Screenshot%202024-08-28%20112249.png
 
 
 
