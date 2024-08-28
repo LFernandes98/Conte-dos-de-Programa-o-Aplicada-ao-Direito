@@ -125,7 +125,7 @@ class Main {
 * JAVASCRIPT: console.log("Olá, Mundo!");
 
 ** B)
-python: https://raw.githubusercontent.com/LFernandes98/Conte-dos-de-Programa-o-Aplicada-ao-Direito/main/Screenshot%202024-08-28%20112249.png
+python: ![python](https://github.com/user-attachments/assets/fe6915fa-af82-41cd-a58a-cc676bab754d)
 Java: ![java](https://github.com/user-attachments/assets/d6d0316e-5f99-41dc-98c5-61da1924e483)
 JavaScript: ![java script](https://github.com/user-attachments/assets/c393e671-5939-4bdc-ae13-b001a6261305)
 
