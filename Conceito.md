@@ -129,6 +129,44 @@ python: ![python](https://github.com/user-attachments/assets/fe6915fa-af82-41cd-
 Java: ![java](https://github.com/user-attachments/assets/d6d0316e-5f99-41dc-98c5-61da1924e483)
 JavaScript: ![java script](https://github.com/user-attachments/assets/c393e671-5939-4bdc-ae13-b001a6261305)
 
+AULA 4
+
+Estrutura de repetição:
+# Exemplo de estrutura de repetição usando um for loop
+
+# Iterando sobre uma lista de números
+numeros = [1, 2, 3, 4, 5]
+
+# Usando um loop for para imprimir cada número
+for numero in numeros:
+    print(numero)
+
+
+Tomada de decisão:
+
+# Exemplo de estrutura de tomada de decisão para avaliação de nota
+
+# Recebe a nota do aluno
+nota = float(input("Digite a nota do aluno (0 a 10): "))
+
+# Verifica a nota e determina a situação acadêmica
+if nota >= 9:
+    print("Excelente")
+elif nota >= 7:
+    print("Bom")
+elif nota >= 5:
+    print("Satisfatório")
+else:
+    print("Insuficiente")
+
+Comprovante da execução da estrutura de repetição:
+
+![estrutura de repeticao aula 04](https://github.com/user-attachments/assets/6b26a895-c33a-4320-8a2a-5f186fa20912)
+
+Comprovante de execução da tomada de decisão:
+
+![tomada de decisao aula 4](https://github.com/user-attachments/assets/68f9dc6f-714b-4f2f-8cb8-833fef92dd00)
+
 
 
 
